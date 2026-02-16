@@ -1,0 +1,103 @@
+MIT License
+
+Copyright (c) 2026 Identify Me
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## What This Means (Plain English)
+
+**You are free to:**
+✅ Use this code for any purpose (commercial, personal, educational)
+✅ Modify and adapt the code
+✅ Distribute the code (with or without changes)
+✅ Sublicense the code (use it in your own projects)
+✅ Use the code privately
+
+**You must:**
+⚠️ Include this license and copyright notice in any distributed copies
+
+**You cannot:**
+❌ Hold the authors liable for any issues with the code
+
+---
+
+## Examples of What You Can Do
+
+- **Copy and use for your own project** ✅
+- **Modify the design and colors** ✅
+- **Sell a product using this code** ✅
+- **Use in commercial applications** ✅
+- **Contribute improvements back** ✅
+- **Create your own version** ✅
+
+---
+
+## How to Include This License
+
+When you distribute this code (on GitHub, etc.), include:
+
+1. **This LICENSE file** in your repository root
+2. **Copyright notice** in your code comments:
+   ```
+   /*
+    * Identify Me - Landing Page
+    * Licensed under MIT License
+    * Copyright (c) 2025 Identify Me
+    */
+   ```
+3. **Reference in README**:
+   ```markdown
+   ## License
+   
+   This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+   ```
+
+---
+
+## Why MIT License?
+
+✅ **Non-Restrictive** - People can use your code however they want
+✅ **Simple** - Easy to understand
+✅ **Popular** - Used by thousands of open source projects
+✅ **Commercial-Friendly** - Companies can use it in paid products
+✅ **Permissive** - No complex requirements or restrictions
+✅ **Encourages Contribution** - People feel free to modify and improve
+
+---
+
+## Other License Options (If You Want Different Terms)
+
+If you prefer something different:
+
+### **Apache 2.0**
+- Like MIT but includes explicit patent rights
+- Slightly more complex
+- Use if: You want to protect against patent lawsuits
+
+### **GPL 3.0**
+- Restrictive: Anyone using your code must open-source their work too
+- Use if: You want to ensure all derived works stay open source
+
+### **Unlicense**
+- Ultra-permissive: Public domain
+- Use if: You want zero restrictions, not even attribution required
+
+**Recommendation**: **MIT License** is perfect for your use case. It says "Use this freely, just mention where it came from."
